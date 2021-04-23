@@ -11,9 +11,9 @@ The workflow is:
 ## TODOs
 
 #Comment codes properly  
-#transate variable names to english
-#Configure paths to work in anywhere
-#Example jupyter notebooks with hyperspectral handling
+#transate variable names to english  
+#Configure paths to work in anywhere  
+#Example jupyter notebooks with hyperspectral handling  
 #rename variables in english  
 #Example in a jupyter notebook how to work with one 1 band raster  
 #Example jupyter notebooks with hyperspectral handling and transfer learning 
